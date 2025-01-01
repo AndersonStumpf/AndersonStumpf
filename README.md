@@ -1,6 +1,6 @@
 # Hi, I'm Anderson!
 
-**`Data Analyst`**
+**`Data Analyst / Data Scientist`**
 
 <!--
 **AndersonStumpf/AndersonStumpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
