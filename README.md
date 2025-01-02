@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Data Analyst (sometimes Engineer)<br/>
 👨🏻‍🎓 I'm Studying Data Engineering and Architecture with AI<br/>
-💭 I have been fascinated by the field of data and have been dedicating my time to studying this new area.!<br/>
+💭 I have been fascinated by the field of data and have been dedicating my time to studying this new area!<br/>
 
 
 <h2>📧 Contact</h2>
