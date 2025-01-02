@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anderson!
 
-**`Data Analyst/Data Scientist`**
+**`Data Analyst`**
 
 👩🏻‍💻 Data Analyst (sometimes Engineer)<br/>
 👨🏻‍🎓 I'm Studying Data Engineering and Architecture with AI<br/>
@@ -36,3 +36,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonStumpf&show_icons=true&locale=en&layout=compact" alt="AndersonStumpf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonStumpf&show_icons=true&locale=en" alt="AndersonStumpf" /></p>
