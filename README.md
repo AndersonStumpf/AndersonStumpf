@@ -9,6 +9,7 @@
 👩🏻‍💻 Data Analyst (sometimes Engineer)<br/>
 👨🏻‍🎓 I'm Studying Data Engineering and Architecture with AI<br/>
 💭 I have been fascinated by the field of data and have been dedicating my time to studying this new area!<br/>
+⚡ Fun fact **The first computer "bug" was a literal moth found in a relay in 1947, inspiring the term "debugging"**<br/>
 
 
 <h2>📧 Contact</h2>
@@ -44,6 +45,7 @@
 
 <h2> 📊 Stats </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonStumpf&show_icons=true&locale=en&layout=compact" alt="AndersonStumpf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonStumpf&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&locale=en&layout=compact" alt="AndersonStumpf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonStumpf&show_icons=true&locale=en" alt="AndersonStumpf" /></p>
+<p>&nbsp;<img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonStumpf&show_icons=true&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&locale=en" alt="AndersonStumpf" /></p>
+
